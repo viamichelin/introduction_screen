@@ -33,7 +33,6 @@ class _IntroPageState extends State<IntroPage>
           Image.asset(
             page.backgroundImage!,
             fit: BoxFit.cover,
-            height: double.infinity,
             width: double.infinity,
             alignment: Alignment.center,
           ),
